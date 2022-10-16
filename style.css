@@ -1,0 +1,63 @@
+.stars{
+  color:gold;
+}
+.back-color{
+  background-color:antiquewhite;
+}
+.btn{
+  border:1px solid black;
+  border-radius: 15px;
+  background-color: sandybrown;
+}
+.my-img{
+  text-decoration-color: goldenrod;
+  
+}
+.name{
+  text-decoration: midnightblue;
+}
+
+.txt{
+  color:coral;
+}
+.c{
+  padding: 10px 10px;
+  background-color:darkolivegreen;
+}
+.html{
+  padding: 10px 10px;
+  background-color:coral;
+}
+.css{
+  padding: 10px 10px;
+  background-color:lightcoral;
+}
+.css h3,html h3,c h3{
+  color:honeydew;
+}
+.title{
+ margin-top: 20px;
+  padding: 10px;
+  color:coral;
+}
+.heading{
+  color:coral;
+}
+.foot{
+  color:crimson;
+  background-color: antiquewhite;
+  justify-content: space-between;
+  text-align: center;
+}
+.card{
+  box-shadow: 10px 10px 10px rgb(213, 207, 207);
+  height: 340px;
+  overflow: scroll;
+}
+.cart{
+
+  border:5px solid coral;
+  background-color: antiquewhite;
+  height: 730px;
+  width:250px;
+}
